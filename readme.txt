@@ -24,7 +24,7 @@ Scripts
     - section3-5.py (Sentiment Bias around Countries & Nationalities)
     - section3-6.py (Bias Around the Use of Negative and Positive Vocabulary)
 
-NetworkGraphs - Dynamic Networks Files
+NetworkGraphs - Interactive Networks Files
 	- z-bbc.html
 	- z-cgtn.html
 	- z-chinadaily.html
