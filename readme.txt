@@ -30,3 +30,4 @@ NetworkGraphs - Interactive Networks Files
 	- z-chinadaily.html
 	- z-globaltimes.html
 	- z-xinhuanet.html
+	how to view: download the files and open in browser. suggested settings can be found in the report.
