@@ -1,3 +1,5 @@
+Anyone (professor, researcher, student) who wants to work on this project and make it a peer-reviewed publication, feel free to contact gmail: xiangningliang404
+
 Report - Full Research Report
   - Explore-Evidence-of-Sentiment-Bias-between-China's-English-Media-Reporting-Domestic-and-Foreign-News.pdf
 
